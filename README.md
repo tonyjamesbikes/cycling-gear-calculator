@@ -1,4 +1,4 @@
-# My Project Title
+# Basic Cycling Gear Calculator
 
 ## Introduction
 
